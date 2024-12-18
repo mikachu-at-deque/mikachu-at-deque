@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mika!
-- 👀 I’m a Technical Writer on the axe DevTools Mobile team.
+- 😎 I’m a Technical Writer on the axe DevTools Mobile team.
 - 🌱 I’m currently learning Gatsby.js
 - 📫 How to reach me: micha.rodriguez@deque.com
 - 😄 Pronouns: she/her
